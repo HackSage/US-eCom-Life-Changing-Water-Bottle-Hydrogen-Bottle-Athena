@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="google-site-verification" content="J-r-Q-3RNwbIgSm-giyHgHZAIxR77wW3rKjrg6cp-pI" />
+  <title>Get Hydrogen Bottle Now!</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com/" />
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+  <link rel="icon" type="image/png" href="assets/shared/checkout/img/favicon.png" />
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&amp;display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/shared/interstitial/v3/css/bulma.min.css" />
+  <link rel="stylesheet" href="assets/shared/interstitial/v3/css/style.css" />
+
+  <style>
+    .theme-light {
+      --color-primary: #32B9BC;
+      --color-secondary: #fbfbfe;
+      --font-color: #000000;
+    }
+
+    .theme-dark {
+      --color-primary: #32B9BC;
+      --color-secondary: #000;
+      --font-color: #ffffff;
+    }
+  </style>
+
+
+  <script src="assets/npm/%40splidejs/splide%404.1.4/dist/js/splide.min.js"></script>
+  <link href="assets/npm/%40splidejs/splide%404.1.4/dist/css/splide.min.css" rel="stylesheet">
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var elms = document.getElementsByClassName('splide');
+
+      for (var i = 0; i < elms.length; i++) {
+        new Splide(elms[i], {
+          perPage: window.innerWidth > 1024 ? 3 : 1,
+          breakpoints: {
+            1024: {
+              perPage: 1,
+            },
+          },
+          pagination: false,
+        }).mount();
+      }
+    });
+  </script>
+
+  <script src="jquery-3.5.0.min.js"></script>
+</head>
+
+<body
+  class="interstitial theme-light">
+
+
+  <div class="topStrip">
+    <div class="container has-text-centered">
+      <div id="caption">
+        <p><b>Special Up to </b><b><span class="pop">70% OFF</span></b><b> Discount Now. Limited Time Offer</b></p>
+      </div>
+    </div>
+  </div>
+
+  <!------TOP-FIX-BAR------>
+  <div class="top-fix-bar" style="position: fixed; z-index: 999;">
+    <div class="header is-flex">
+      <div class="container is-flex is-align-items-center is-justify-content-space-around">
+        <img src="https://a.storyblok.com/f/160399/300x81/52fcf5487f/lifewater-logo-black-blue.svg" class="logo">
+        <div class="show-desk">
+          <ul class="topMenu scroller show-desk">
+
+            <li><a href="#overview">Overview</a></li>
+
+            <li><a href="#features">Features</a></li>
+
+            <li><a href="#reviews">Reviews</a></li>
+
+            <li><a href="#FAQ">FAQ</a></li>
+
+            <li><a href="#comparison">Comparison</a></li>
+
+          </ul>
+        </div>
+
+        <div class="show-tab show-mob">
+          <div class="mob-mnu-ic">
+            <button class="dl-trigger" id="mobMenuBtn">
+              <div class="bar1"></div>
+              <div class="bar2"></div>
+              <div class="bar3"></div>
+            </button>
+          </div>
+
+          <ul class="mobilemenu">
+
+            <li><a href="#overview">Overview</a></li>
+
+            <li><a href="#features">Features</a></li>
+
+            <li><a href="#reviews">Reviews</a></li>
+
+            <li><a href="#FAQ">FAQ</a></li>
+
+            <li><a href="#comparison">Comparison</a></li>
+
+          </ul>
+        </div>
+        <a href="https://hydrogenessence.com/offer/hydro/secure-checkout?total=185.80&qty=1&product=Hydrogen Bottle&tf=&x2=&tid=1023ccf1a557add387ccef30c29903&affid=1001&ref=cdad90a9&vdsp_id=%257Btracking_id%257D&cpv_id=&c=6fbe774e-a410-4e19-92a4-58e3a269b76d&subid=%7Bsubid%7D&test=&v=&type=" class="nav-btn show-desk">ORDER NOW</a>
+      </div>
+    </div>
+  </div>
+  <div
+    class="banner"
+    style="background: url(assets/a.storyblok.com/f/160399/2000x650/79cb803f7d/2000x650-header-bg.png); color:#000000!important;">
+    <div class="container is-flex is-justify-content-center">
+      <div class="banner-left">
+        <div class="bnrStar">
+          <img src="assets/shared/checkout/v1/img/5_stars.png" alt="" width="89" height="15" />4.9 based on 2000+
+          <span class="hide-mob">Verified</span> Reviews
+        </div>
+        <div class="bnrHeading">The Life-Changing Water Bottle</div>
+        <div class="bnrText1">
+          <p>The Life-Changing Water Bottle Taking the Health and Wellness Industry by Storm</p>
+        </div>
+        <div class="bnr-mob-div is-hidden-desktop">
+
+          <img src="assets/a.storyblok.com/f/160399/560x650/de8f5af729/560x650-header-product.png" class="fadeInUp" width="565" height="724" />
+
+        </div>
+        <ul class="bnrList">
+
+          <li>Boosts Energy Levels</li>
+
+          <li>Improves Gut Health</li>
+
+          <li>Better Hydration</li>
+
+          <li>Boosts Metabolism</li>
+
+          <li>Neutralizes Free-Radicals</li>
+
+          <li>No Micro-Plastics</li>
+
+        </ul>
+        <div class="btnBox hide-mob">
+          <a href="https://hydrogenessence.com/offer/hydro/secure-checkout?total=185.80&qty=1&product=Hydrogen Bottle&tf=&x2=&tid=1023ccf1a557add387ccef30c29903&affid=1001&ref=cdad90a9&vdsp_id=%257Btracking_id%257D&cpv_id=&c=6fbe774e-a410-4e19-92a4-58e3a269b76d&subid=%7Bsubid%7D&test=&v=&type=" class="button cta-button">
+            Order Now & Save 70%
+            <img src="assets/shared/interstitial/v3/img/btn-arw.png" class="btn-arw" width="34" height="33" /></a>
+          <div class="btn-txt">
+            <p class="btn-text1">Ships by <span>Nov 20</span></p>
+            |
+            <p class="btn-text2">
+              <img src="assets/shared/interstitial/v3/img/Shape.png" class="hourglass" width="10" height="14" /> Stock:
+              <span>Only 59 Left!</span>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="is-hidden-touch is-flex is-justify-content-center is-align-items-center">
+        <img src="assets/a.storyblok.com/f/160399/560x650/de8f5af729/560x650-header-product.png" class="fadeInUp" width="565" height="724" />
+      </div>
+    </div>
+  </div>
+
+  <div class="ftrSec">
+    <div class="container">
+      <p class="ftrText has-text-centered">As Seen On</p>
+      <ul class="ftrList">
+        <li><img src="assets/shared/interstitial/v3/img/asSeenOn/us/1.svg" alt=""></li>
+        <li><img src="assets/shared/interstitial/v3/img/asSeenOn/us/2.svg" alt=""></li>
+        <li><img src="assets/shared/interstitial/v3/img/asSeenOn/us/3.svg" alt=""></li>
+        <li><img src="assets/shared/interstitial/v3/img/asSeenOn/us/4.svg" alt=""></li>
+        <li><img src="assets/shared/interstitial/v3/img/asSeenOn/us/5.svg" alt=""></li>
+      </ul>
+    </div>
+  </div>
+  <style>
+    .ftrSec li img {
+      height: 100px;
+      object-fit: contain;
+    }
+
+    .ftrSec li {
+      margin: 0 10px;
+    }
+
+    @media screen and (max-width: 768px) {
+      .ftrSec li img {
+        margin: 1em;
+        height: 40px;
+      }
+    }
+  </style>
+  <div class="section1" id="overview">
+    <div class="container is-flex is-justify-content-center is-align-items-center">
+      <div class="s1Left is-hidden-touch mr-6">
+        <img src="https://a.storyblok.com/f/160399/600x600/2e306232d8/elipse.svg" class="wow fadeInUp" style="border-radius: 5px" />
+
+        <img src="assets/a.storyblok.com/f/160399/400x400/c4415f2359/400x400-product.png" class="s1Prod wow fadeInUp" width="391" height="450" />
+
+      </div>
+      <div class="s1Right">
+        <p class="secName"></p>
+        <p class="commonHead">Get The Highest Quality Water In Your Body</p>
+        <div class="s1Left is-hidden-desktop">
+          <img src="https://a.storyblok.com/f/160399/600x600/2e306232d8/elipse.svg" class="wow fadeInUp my-5" />
+
+          <img src="assets/a.storyblok.com/f/160399/400x400/c4415f2359/400x400-product.png" class="s1Prod" width="391" height="450" />
+
+        </div>
+        <div class="commonText">
+          <p><span style="color:rgb(59, 59, 59)">75% of the population suffer from chronic dehydration which can often lead to various chronic diseases.</span></p>
+          <p>The fix? <span style="color:rgb(21, 59, 91)">Hydrogen bottle.</span></p>
+          <p>It possesses remarkable anti-inflammatory and antioxidant properties that have been proven to tackle over 150 different diseases while providing accelerated benefits of deeper hydration. </p>
+          <p><i>Because like they say, an ounce of preparation is worth a gallon of cure.</i></p>
+        </div>
+        <div class="btnBox hide-mob">
+          <a href="https://hydrogenessence.com/offer/hydro/secure-checkout?total=185.80&qty=1&product=Hydrogen Bottle&tf=&x2=&tid=1023ccf1a557add387ccef30c29903&affid=1001&ref=cdad90a9&vdsp_id=%257Btracking_id%257D&cpv_id=&c=6fbe774e-a410-4e19-92a4-58e3a269b76d&subid=%7Bsubid%7D&test=&v=&type=" class="button cta-button">Order Now & Save 70%
+            <img
+              src="assets/shared/interstitial/v3/img/btn-arw.png"
+              class="btn-arw"
+              width="34"
+              height="33" /></a>
+          <div class="btn-txt">
+            <p class="btn-text1">Ships by <span>Nov 20</span></p>
+            |
+            <p class="btn-text2">
+              <img src="assets/shared/interstitial/v3/img/Shape.png" class="hourglass" width="10" height="14" /> Stock:
+              <span>Only 53 Left!</span>
+            </p>
+          </div>
+        </div>
+        <img
+          src="assets/shared/interstitial/v3/img/s1-dots-left.png"
+          class="s1Dotsleft hide-mob"
+          width="310"
+          height="105" />
+        <img
+          src="assets/shared/interstitial/v3/img/s1-dots-right.png"
+          class="s1DotsRight hide-mob"
+          width="694"
+          height="644" />
+      </div>
+    </div>
+  </div>
+  <section style="background-color: #131314;" id="features">
+    <div class="container-xl mx-auto is-max-widescreen p-4" style="color: #ffffff">
+      <div class="container mx-auto mt-7 is-max-desktop has-text-centered is-size-2 py-5 has-text-weight-bold is-size-4-mobile" style="color: #32B9BC;">Make Your Health A Priority with the new Hydrogen Bottle</div>
+      <div class="container mx-auto is-max-desktop has-text-centered is-size-5 is-size-6-mobile">Make sure your body gets the best water possible and start feeling healthier than ever! </div>
+      <div class="columns is-2 mt-5 is-flex is-flex-direction-column-mobile">
+        <div class="column is-4 is-flex is-justify-content-center is-align-items-center order-2 order-1-mobile is-hidden-mobile">
+          <img src="assets/a.storyblok.com/f/160399/300x600/82bc356628/300x600.png" alt="">
+        </div>
+        <div class="column is-4 order-2-mobile order-1 pb-0">
+
+
+          <div class="is-flex is-align-items-start my-4 is-flex-wrap-wrap-mobile is-justify-content-center">
+            <img src="assets/a.storyblok.com/f/160399/100x100/44c5ac5d7e/100x100-features-icons-1.png" alt="" style="object-fit: contain; width: 80px;" class="mr-4 s2RowImg">
+            <div>
+              <h2 class="has-text-weight-bold is-size-4 is-size-5-mobile has-text-centered-mobile pt-3" style="color: #ffffff">Maintain Productivity</h2>
+              <div class="has-text-centered-mobile pt-3 is-size-5 is-size-6-mobile">Boost your energy levels and enhance your productivity throughout the day.</div>
+            </div>
+          </div>
+
+          <div class="is-flex is-align-items-start my-4 is-flex-wrap-wrap-mobile is-justify-content-center">
+            <img src="assets/a.storyblok.com/f/160399/100x100/fe0dac3b6d/100x100-features-icons-2.png" alt="" style="object-fit: contain; width: 80px;" class="mr-4 s2RowImg">
+            <div>
+              <h2 class="has-text-weight-bold is-size-4 is-size-5-mobile has-text-centered-mobile pt-3" style="color: #ffffff">Optimize Physical Performance</h2>
+              <div class="has-text-centered-mobile pt-3 is-size-5 is-size-6-mobile">Achieve peak physical performance with better hydration and faster recovery.</div>
+            </div>
+          </div>
+
+          <div class="is-flex is-align-items-start my-4 is-flex-wrap-wrap-mobile is-justify-content-center">
+            <img src="assets/a.storyblok.com/f/160399/100x100/58b5198a4c/100x100-features-icons-3.png" alt="" style="object-fit: contain; width: 80px;" class="mr-4 s2RowImg">
+            <div>
+              <h2 class="has-text-weight-bold is-size-4 is-size-5-mobile has-text-centered-mobile pt-3" style="color: #ffffff">Fuel Muscle Stores</h2>
+              <div class="has-text-centered-mobile pt-3 is-size-5 is-size-6-mobile">Maintain and fuel your muscle stores for improved strength and endurance.</div>
+            </div>
+          </div>
+
+        </div>
+        <div class="column is-4 order-3-mobile order-3 pt-0">
+
+          <div class="is-flex is-align-items-start my-4 is-flex-wrap-wrap-mobile is-justify-content-center">
+            <img src="assets/a.storyblok.com/f/160399/100x100/600debd59e/100x100-features-icons-4.png" alt="" style="object-fit: contain; width: 80px;" class="mr-4 s2RowImg">
+            <div>
+              <h2 class="has-text-weight-bold is-size-4 is-size-5-mobile has-text-centered-mobile pt-3" style="color: #ffffff">No Filter Replacement</h2>
+              <div class="has-text-centered-mobile pt-3 is-size-5 is-size-6-mobile">Enjoy the convenience of a hydrogen bottle with no need for filter replacements.</div>
+            </div>
+          </div>
+
+          <div class="is-flex is-align-items-start my-4 is-flex-wrap-wrap-mobile is-justify-content-center">
+            <img src="assets/a.storyblok.com/f/160399/100x100/f41e3250c2/100x100-features-icons-5.png" alt="" style="object-fit: contain; width: 80px;" class="mr-4 s2RowImg">
+            <div>
+              <h2 class="has-text-weight-bold is-size-4 is-size-5-mobile has-text-centered-mobile pt-3" style="color: #ffffff">Supports Weight Loss</h2>
+              <div class="has-text-centered-mobile pt-3 is-size-5 is-size-6-mobile">Aid your weight loss journey by staying hydrated and feeling fuller longer.</div>
+            </div>
+          </div>
+
+          <div class="is-flex is-align-items-start my-4 is-flex-wrap-wrap-mobile is-justify-content-center">
+            <img src="assets/a.storyblok.com/f/160399/100x100/d3736749ef/100x100-features-icons-6.png" alt="" style="object-fit: contain; width: 80px;" class="mr-4 s2RowImg">
+            <div>
+              <h2 class="has-text-weight-bold is-size-4 is-size-5-mobile has-text-centered-mobile pt-3" style="color: #ffffff">Improve Cognitive Function</h2>
+              <div class="has-text-centered-mobile pt-3 is-size-5 is-size-6-mobile">Enhance your mental clarity and cognitive function for better focus and memory.</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="container-2xl is-clipped">
+    <div class="is-flex columns is-flex-wrap-wrap is-justify-content-center">
+
+      <div class="column is-6 is-12-mobile p-0" style="overflow: hidden;">
+        <style>
+          .s4Left {
+            background: url(assets/a.storyblok.com/f/160399/1100x560/d25de3fbb1/550x280-split-left-right-2x-left.png) no-repeat right center !important;
+            height: 580px;
+            background-size: cover !important;
+            padding: 60px 0 0 45px;
+          }
+
+          .s4RightInner,
+          .s4LeftInner {
+            float: left;
+            width: 360px;
+            position: relative;
+          }
+        </style>
+        <div class="s4Left is-12">
+          <div class="s4LeftInner">
+            <div class="secName"><span class="has-text-white">CRYSTAL CLEAR SKIN</span></div>
+            <div class="commonHead column p-0 is-8-mobile"><span class="has-text-white">Enhance Skin Health</span></div>
+            <div class="commonText"><span class="has-text-white">Achieve a radiant and youthful complexion with the hydrating <br class="is-hidden-desktop"> benefits of hydrogen-rich water.</span></div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="column is-6 is-12-mobile p-0" style="overflow: hidden;">
+        <style>
+          .s4Right {
+            background: url(assets/a.storyblok.com/f/160399/1100x560/49898f1a09/550x280-split-left-right-2x-right.png) no-repeat right center !important;
+            height: 580px;
+            background-size: cover !important;
+            padding: 60px 0 0 45px;
+          }
+
+          .s4RightInner,
+          .s4LeftInner {
+            float: left;
+            width: 360px;
+            position: relative;
+          }
+        </style>
+        <div class="s4Right is-12">
+          <div class="s4RightInner">
+            <div class="secName"><span class="has-text-white">NO MORE JOINT PAIN</span></div>
+            <div class="commonHead column p-0 is-8-mobile"><span class="has-text-white">Reduce Inflammation</span></div>
+            <div class="commonText"><span class="has-text-white">Alleviate inflammation and support overall health <br class="is-hidden-desktop"> with the antioxidant properties of hydrogen water.</span></div>
+          </div>
+
+          <img src="#" class="show-mob s4RightBg" alt="">
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="section5" id="comparison">
+    <div class="container">
+      <div class="secName">COMPARISON</div>
+      <div class="commonHead">Hydrogen Bottle vs Competition</div>
+      <div class="commonText column is-10 is-offset-1">With meticulous design and engineering, Hydrogen Bottle outshines the competition!</div>
+
+      <div class="s5CompBox">
+        <div class="s5Col1">
+          <ul>
+
+            <li>Hydrogen Infusion Technology</li>
+
+            <li>Antioxidant Benefits</li>
+
+            <li>Research-Backed Benefits</li>
+
+            <li>Health Benefits</li>
+
+            <li>Ease of Use</li>
+
+            <li>Portability</li>
+
+            <li>Durability and Quality</li>
+
+          </ul>
+        </div>
+        <div class="s5Col2" style="background-color: #32B9BC;">
+          <div class="s5Col2Top">
+            <img src="assets/a.storyblok.com/f/160399/100x100/f49be1aed4/100x100-comparision-1.png" class="s5Col2Prod" width="94" height="138" />
+            <p class="is-size-5 is-size-7-mobile">Hydrogen Bottle</p>
+          </div>
+          <ul>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-chk.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-chk.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-chk.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-chk.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-chk.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-chk.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-chk.png" width="33" height="28" /></li>
+
+          </ul>
+        </div>
+
+        <div class="s5Col2 s5Col3">
+          <div class="s5Col2Top s5Col3Top">
+            <img src="assets/a.storyblok.com/f/160399/100x100/8239479492/100x100-comparision-2.png" class="s5Col2Prod" width="94" height="138" />
+            <p>Competitor <span class="hide-mob">1</span></p>
+          </div>
+          <ul>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-chk.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+          </ul>
+        </div>
+
+        <div class="s5Col2 s5Col4 hide-mob">
+          <div class="s5Col2Top s5Col4Top">
+            <img src="assets/a.storyblok.com/f/160399/100x100/452f347d49/100x100-comparision-3.png" class="s5Col2Prod" width="94" height="138" />
+            <p>Competitor 2</p>
+          </div>
+          <ul>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-chk.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+            <li><img src="assets/shared/checkout/img/icons/comp-cross.png" width="33" height="28" /></li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section6">
+    <div class="container-2xl">
+      <div class="container">
+        <div class="s6Left">
+          <img src="https://a.storyblok.com/f/160399/150x150/0c8aac7985/moneyback.svg" class="s6Seal" width="289" height="290">
+        </div>
+        <div class="s6Right">
+          <div class="commonHead has-text-white">30 Days Money Back Guarantee*</div>
+          <div class="commonText greyText has-text-white">
+            <p>We’re confident you will love staying in shape and healthy with Hydrogen Bottle just like our 2000+ customers. However, in the unlikely case you are not satisfied, just return the package within 30 days.</p>
+          </div>
+          <div class="btnBox hide-mob">
+            <a href="https://hydrogenessence.com/offer/hydro/secure-checkout?total=185.80&qty=1&product=Hydrogen Bottle&tf=&x2=&tid=1023ccf1a557add387ccef30c29903&affid=1001&ref=cdad90a9&vdsp_id=%257Btracking_id%257D&cpv_id=&c=6fbe774e-a410-4e19-92a4-58e3a269b76d&subid=%7Bsubid%7D&test=&v=&type=" class="button cta-button">Order Now & Save 70%
+              <img src="assets/shared/interstitial/v3/img/btn-arw.png" class="btn-arw" width="34" height="33">
+            </a>
+            <div class="btn-txt lightText has-text-white">
+              <p class="btn-text1">Ships by <span>Nov 20</span></p> |
+              <p class="btn-text2"><img src="assets/shared/interstitial/v3/img/Shape.png" class="hourglass" width="10" height="14"> Stock: <span>Only 53 Left!</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <section class="has-text-centered section" id="reviews">
+    <div class="container">
+      <div class="secName">CUSTOMER TESTIMONIALS</div>
+      <div class="commonHead is-size-3 mb-6" style="text-wrap: balance;">What Our Customers Have To Say</div>
+      <section class="splide">
+        <div class="splide__track">
+          <ul class="splide__list">
+
+            <li class="splide__slide px-2">
+              <div class="is-flex is-flex-direction-column is-align-items-center">
+                <img src="assets/a.storyblok.com/f/160399/350x350/04a7ff8c01/350x350-3x-testimonials-1.png" class="testImage mx-2" width="370" height="369">
+                <img src="assets/shared/checkout/v1/img/5_stars.png" class="testStar" width="102" height="18">
+              </div>
+              <div class="commonText testhead">This Hydrogen Bottle is a game-changer!</div>
+              <div class="commonText">As an athlete, staying hydrated is crucial. The Hydrogen Bottle has significantly improved my performance and recovery times. I highly recommend it to anyone looking to enhance their fitness journey.</div>
+              <div class="testName">Matt R.<img src="assets/shared/checkout/img/icons/verified.png" width="13" height="16"><span>Verified Buyer</span></div>
+            </li>
+
+            <li class="splide__slide px-2">
+              <div class="is-flex is-flex-direction-column is-align-items-center">
+                <img src="assets/a.storyblok.com/f/160399/350x350/800251590f/350x350-3x-testimonials-2.png" class="testImage mx-2" width="370" height="369">
+                <img src="assets/shared/checkout/v1/img/5_stars.png" class="testStar" width="102" height="18">
+              </div>
+              <div class="commonText testhead">5 Stars All The Way!</div>
+              <div class="commonText">I've been using the Hydrogen Bottle for a few weeks now, and I feel more energetic and alert throughout the day. It's a game-changer for my busy lifestyle!</div>
+              <div class="testName">Lynn<img src="assets/shared/checkout/img/icons/verified.png" width="13" height="16"><span>Verified Buyer</span></div>
+            </li>
+
+            <li class="splide__slide px-2">
+              <div class="is-flex is-flex-direction-column is-align-items-center">
+                <img src="assets/a.storyblok.com/f/160399/350x350/e2d15a0786/350x350-3x-testimonials-3.png" class="testImage mx-2" width="370" height="369">
+                <img src="assets/shared/checkout/v1/img/5_stars.png" class="testStar" width="102" height="18">
+              </div>
+              <div class="commonText testhead"></div>
+              <div class="commonText">The Hydrogen Bottle has made a noticeable difference in my skin's appearance and overall well-being. It's an essential part of my daily routine now!</div>
+              <div class="testName">Martha<img src="assets/shared/checkout/img/icons/verified.png" width="13" height="16"><span>Verified Buyer</span></div>
+            </li>
+
+          </ul>
+        </div>
+      </section>
+      <div class="btnBox hide-mob">
+        <a href="https://hydrogenessence.com/offer/hydro/secure-checkout?total=185.80&qty=1&product=Hydrogen Bottle&tf=&x2=&tid=1023ccf1a557add387ccef30c29903&affid=1001&ref=cdad90a9&vdsp_id=%257Btracking_id%257D&cpv_id=&c=6fbe774e-a410-4e19-92a4-58e3a269b76d&subid=%7Bsubid%7D&test=&v=&type=" class="button cta-button">Order Now & Save 70%</a>
+        <div class="btn-txt">
+          <p class="btn-text1">Ships by <span>Nov 20</span></p> |
+          <p class="btn-text2"><img src="assets/shared/interstitial/v3/img/Shape.png" class="hourglass" width="10" height="14">
+            Stock: <span>Only 53 Left!</span></p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="mb-6 container" id="FAQ">
+    <p class="secName has-text-centered">WE’VE ALL THE ANSWERS</p>
+    <p class="commonHead has-text-centered mb-5">Frequently Asked Question</p>
+    <div class="faq-container my-6 has-text-white has-text-left">
+
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">1. How can I track my order?</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p>When your order ships, you will receive an email confirmation including a shipment tracking number, and a website where you can monitor the status of your shipment.</p>
+        </div>
+      </details>
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">2. What will I notice?</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p><span style="color:rgb(0, 0, 0)">Typically, initial noticeable changes are increased mental clarity, improved energy and overall detoxing of the body via increased internal system functioning as every cell in the body will begin to rehydrate and remove toxins and metabolic waste which is a major cause of dysfunction and disease. </span></p>
+        </div>
+      </details>
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">3. How To Clean</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p><span style="color:rgb(0, 0, 0)">To Clean: Remove glass from base (counter-clockwise twist) and lid.</span></p>
+          <p><span style="color:rgb(0, 0, 0)">Then, place glass in dishwasher to clean. Note: Base is not waterproof.</span></p>
+        </div>
+      </details>
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">4. What is Hydrogen Bottle?</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p>The Hydrogen Bottle is the bottle taking the Health and Wellness industry by storm.</p>
+        </div>
+      </details>
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">5. What is included in the Hydrogen Bottle package?</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p>The Hydrogen Bottle package includes the following items:<br />USB Cable<br />Plug<br />User Guide</p>
+        </div>
+      </details>
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">6. Do you provide free shipping for the Hydrogen Bottle?</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p>No, we do not provide free shipping for the Hydrogen water bottle. Shipping costs will be calculated at checkout based on your location and the shipping method selected.</p>
+        </div>
+      </details>
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">7. What is your return policy for the Hydrogen Bottle?</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p>We offer a 30-day return policy for the Hydrogen Bottle. If you are not satisfied with your purchase, you can return it within 30 days from the receipt date of the order.</p>
+        </div>
+      </details>
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">8. Product Specifications</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p>Name: Hydrogen Bottle<br />Dimensions: 7 x 20.7cm<br />Weight: 483g<br />Product capacity: 420ml<br />Charging time: 2-3 hours<br />Voltage: 220V<br />Operating time: 3 minutes = 1 use<br />Number of uses per charge: 15-20<br />Power consumption: 10W</p>
+        </div>
+      </details>
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">9. Product Features</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p>Hydrogen molecular technology<br />High efficiency electrolysis mode<br />Portable design<br />Leak-Proof and Spill Proof<br />Good quality stainless steel material</p>
+        </div>
+      </details>
+
+      <details class="box p-1" style="cursor: pointer;">
+        <summary class="has-text-weight-bold p-3 is-size-7-mobile">10. What technology does the Hydrogen Bottle use?</summary>
+        <div class="faq-container_inner p-5 is-size-7-mobile">
+          <p>The Hydrogen Bottle uses SPE technology. It uses the principle of electrolysis to decompose hydrogen ions in the water, forming hydrogen-rich water. Upon contact with water, it can form tens of thousands of electrode pairs, electrolyzing the water, causing hydrogen ions in the water to form hydrogen gas that escapes to the water surface, and generating hydroxide ions.</p>
+        </div>
+      </details>
+
+    </div>
+    <div class="has-text-centered mt-5 is-hidden-touch">
+      <a href="https://hydrogenessence.com/offer/hydro/secure-checkout?total=185.80&qty=1&product=Hydrogen Bottle&tf=&x2=&tid=1023ccf1a557add387ccef30c29903&affid=1001&ref=cdad90a9&vdsp_id=%257Btracking_id%257D&cpv_id=&c=6fbe774e-a410-4e19-92a4-58e3a269b76d&subid=%7Bsubid%7D&test=&v=&type=" class="button cta-button">Order Now & Save 70%</a>
+      <div class="btn-txt">
+        <p class="btn-text1">Ships by <span>Nov 20</span></p> |
+        <p class="btn-text2"><img src="assets/shared/interstitial/v3/img/Shape.png" class="hourglass" width="10" height="14">
+          Stock: <span>Only 53 Left!</span></p>
+      </div>
+    </div>
+  </section>
+  <div class="navbar is-sticky-bottom is-hidden-desktop">
+    <div id="ctabtn-mob">
+      <a href="https://hydrogenessence.com/offer/hydro/secure-checkout?total=185.80&qty=1&product=Hydrogen Bottle&tf=&x2=&tid=1023ccf1a557add387ccef30c29903&affid=1001&ref=cdad90a9&vdsp_id=%257Btracking_id%257D&cpv_id=&c=6fbe774e-a410-4e19-92a4-58e3a269b76d&subid=%7Bsubid%7D&test=&v=&type=" class="pulse comn-btn is-flex is-justify-content-center is-align-items-center"><span class="is-size-6">Order Now & Save 70%</span></a>
+      <div class="btn-txt is-flex is-justify-content-center is-align-items-center">
+        <p class="btn-text1">Ships by <span>Nov 20</span></p> |
+        <p class="btn-text2"><img src="assets/shared/interstitial/v3/img/Shape.png" class="hourglass" width="10" height="14">
+          Stock: <span>Only 53 Left!</span></p>
+      </div>
+    </div>
+  </div>
+  <footer class="footer mt-4">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-4">
+          <h2 class="has-text-weight-bold">LINKS</h2>
+          <ul>
+            <li><a href="#" target="_blank"> Contact Us </a></li>
+            <li>
+              <a href="#" target="_blank"> Terms & Conditions </a>
+            </li>
+            <li><a href="#" target="_blank"> Privacy Policy </a></li>
+            <li>
+              <a href="#" target="_blank"> Returns & Refunds </a>
+            </li>
+
+
+
+          </ul>
+        </div>
+        <div class="column is-4">
+          <h2 class="has-text-weight-bold">GUARANTEE</h2>
+          <p>We offer a 30-day money-back guarantee.</p>
+          <p>*Please follow our <a href="#" class="has-text-link">Return & Refund</a> policy</p>
+        </div>
+        <div class="column is-4">
+          <img src="https://a.storyblok.com/f/160399/300x81/52fcf5487f/lifewater-logo-black-blue.svg" alt="" style="max-height: 75px; width: 250px;" />
+          <p>Copyright &copy; Hydrogen Bottle | All Rights Reserved</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <style>
+    footer.footer {
+      background: var(--color-secondary);
+      color: var(--font-color);
+    }
+
+    footer ul li a {
+      color: var(--font-color);
+    }
+  </style>
+
+
+  <script src="assets/shared/interstitial/v3/js/main.js"></script>
+</body>
+
+</html>
